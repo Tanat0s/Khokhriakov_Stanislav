@@ -5,6 +5,7 @@ VisualStudioVersion = 16.0.30114.105
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "M1_Introduction", "M1_Introduction\M1_Introduction.csproj", "{AA3597B8-5B23-4AB3-8AE9-47AE7CA04BC9}"
 EndProject
+
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "M4_Arrays", "M4_Arrays", "{A912D51B-D39A-4A86-ADC8-7D89F7A41C96}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "M4_1_Random_Matrix", "M4_1_Random_Matrix\M4_1_Random_Matrix.csproj", "{5722DF44-64D8-4B23-9111-CC788ED8B8BE}"
